@@ -6,6 +6,7 @@ The server keeps log with customer activity in the database (day / yar, ip clien
 
 Used technologies: Sockets, RPC / RMI, MoM
 Java Requirements /  Dependencies:
+
 1 . amqp-client-5.5.1.jar
 2 . mysql-connector-java-8.0.14.jar
 3 . sqlite-jdbc-3.6.20.1.jar
