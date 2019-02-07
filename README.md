@@ -5,6 +5,7 @@ In this project i built a simple distributed system with three levels: clients, 
 The server keeps log with customer activity in the database (day / yar, ip client, meter value).
 
 Used technologies: Sockets, RPC / RMI, MoM
+
 Java Requirements /  Dependencies:
 
 1 . amqp-client-5.5.1.jar
